@@ -6,7 +6,7 @@ This is an implementation of the following paper.
 > [FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency.](https://arxiv.org/abs/xx)
 > Submitted to ICASSP'2024
 
- [Rui Liu *](https://ttslr.github.io/), Jiatian Xi, Ziyue Jiang, [Haizhou Li](https://colips.org/~eleliha/).
+ [Rui Liu](https://ttslr.github.io/), Jiatian Xi, [Ziyue Jiang](https://scholar.google.com/citations?user=wDgSBssAAAAJ&hl=zh-CN), [Haizhou Li](https://colips.org/~eleliha/).
  
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/xx)
