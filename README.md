@@ -9,7 +9,7 @@ This is an implementation of the following paper.
  [Rui Liu](https://ttslr.github.io/), Jiatian Xi, [Ziyue Jiang](https://scholar.google.com/citations?user=wDgSBssAAAAJ&hl=zh-CN), [Haizhou Li](https://colips.org/~eleliha/).
  
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/xx](https://arxiv.org/abs/2309.11725)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]((https://arxiv.org/abs/2309.11725))
 
 
 ## Speech Demo
