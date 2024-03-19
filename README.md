@@ -1,7 +1,7 @@
 # FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency
  
 
-## Introduction
+<!--## Introduction
 This is an implementation of the following paper.
 > [FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency.](https://arxiv.org/abs/2309.11725)
  
@@ -11,6 +11,7 @@ This is an implementation of the following paper.
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2309.11725])
 
+-->
 
 ## Speech Demo
 
