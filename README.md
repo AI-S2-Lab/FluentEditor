@@ -15,7 +15,7 @@ This is an implementation of the following paper.
 
 ## Speech Demo
 
-Please check our [website]([https://anonymous.4open.science/w/FluentEditor-B684/](https://AI-S2-Lab.github.io/FluentEditor)).
+Please check our [website](https://AI-S2-Lab.github.io/FluentEditor).
 
 <!--[website](https://AI-S2-Lab.github.io/FluentEditor).-->
 
