@@ -115,4 +115,21 @@ Any organization or individual is prohibited from using any technology mentioned
 ``https://drive.google.com/drive/folders/1BOFQ0j2j6nsPqfUlG8ot9I-xvNGmwgPK?usp=sharing`` and put them in ``data/processed/vctk``. 
 2. Please specify the MFA version as 2.0.0rc3.
 
-If you find any other problems, please contact me.
+
+
+
+## Citing
+To cite this repository:
+```bibtex
+@article{liu2023fluenteditor,
+  title={FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency},
+  author={Liu, Rui and Xi, Jiatian and Jiang, Ziyue and Li, Haizhou},
+  journal={Proc. InterSpeech2024},
+  year={2024}
+}
+
+```
+
+## Author
+
+E-mail：liurui_imu@163.com, xjiatian@163.com
