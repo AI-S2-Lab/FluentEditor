@@ -121,11 +121,14 @@ Any organization or individual is prohibited from using any technology mentioned
 ## Citing
 To cite this repository:
 ```bibtex
-@article{liu2023fluenteditor,
-  title={FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency},
-  author={Liu, Rui and Xi, Jiatian and Jiang, Ziyue and Li, Haizhou},
-  journal={Proc. InterSpeech2024},
-  year={2024}
+@inproceedings{liu24p_interspeech,
+  title     = {FluentEditor: Text-based Speech Editing by Considering Acoustic and Prosody Consistency},
+  author    = {Rui Liu and Jiatian Xi and Ziyue Jiang and Haizhou Li},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {3435--3439},
+  doi       = {10.21437/Interspeech.2024-2320}  ,
+  issn      = {2958-1796},
 }
 
 ```
